@@ -38,7 +38,7 @@ The **Simple Portfolio Tracker** is a 🌐 web app that lets users 🧑‍💻 m
 
 ### ⏱️ Real-Time Data:
 - **📈 Live Stock Prices**:
-  - Integrated with free stock price APIs (e.g., Alpha Vantage, Yahoo Finance, Finnhub).
+  - Integrated with free stock price APIs.
   - Dynamically updates portfolio value.
 - **🆕 Default Portfolio**:
   - Each user gets 5️⃣ random stocks (quantity: 1️⃣) for demo purposes.
@@ -123,6 +123,6 @@ https://github.com/user-attachments/assets/53cde2e0-2127-44fe-961c-5a80f9452737
 
 ---
 
-🌟 Final Note
+## 🌟 Final Note
 
 This project reflects the core values of CapX by promoting simplicity, efficiency, and innovation. We hope this tool aligns with CapX's vision of empowering users to take control of their financial portfolios with ease and confidence. 🌟
