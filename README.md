@@ -49,8 +49,11 @@ The **Simple Portfolio Tracker** is a 🌐 web app that lets users 🧑‍💻 m
 - **☕ Backend**: Deployed on Heroku, AWS, or Render.
 - **⚛️ Frontend**: Hosted on Vercel or Netlify.
 - **🔗 Live Demo**:
-- https://github.com/user-attachments/assets/8adcbddc-4540-48ba-92fb-a1ae5c46c32d
-- Uploading Tracker Demo.mp4…
+
+
+https://github.com/user-attachments/assets/53cde2e0-2127-44fe-961c-5a80f9452737
+
+
 
 
 ---
