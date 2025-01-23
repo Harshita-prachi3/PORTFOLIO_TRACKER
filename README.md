@@ -45,7 +45,7 @@ The **Simple Portfolio Tracker** is a 🌐 web app that lets users 🧑‍💻 m
 
 ---
 
-## 🚀 Live Demo**:
+## 🚀 Live Demo:
 
 
 https://github.com/user-attachments/assets/53cde2e0-2127-44fe-961c-5a80f9452737
@@ -123,18 +123,6 @@ https://github.com/user-attachments/assets/53cde2e0-2127-44fe-961c-5a80f9452737
 
 ---
 
-## 🏅 Evaluation Criteria
-1. **✅ Functionality**:
-   - Core CRUD ops implemented.
-   - 📈 Live prices for dynamic updates.
-2. **💻 Code Quality**:
-   - Clean, modular, and 📚 readable.
-3. **🎨 UI/UX Design**:
-   - Intuitive and 📱 responsive.
-4. **📚 Technical Knowledge**:
-   - Efficient schema design.
-   - Proper API and exception handling.
+🌟 Final Note
 
----
-
-
+This project reflects the core values of CapX by promoting simplicity, efficiency, and innovation. We hope this tool aligns with CapX's vision of empowering users to take control of their financial portfolios with ease and confidence. 🌟
