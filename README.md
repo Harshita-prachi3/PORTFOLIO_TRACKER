@@ -45,10 +45,7 @@ The **Simple Portfolio Tracker** is a 🌐 web app that lets users 🧑‍💻 m
 
 ---
 
-## 🚀 Deployment
-- **☕ Backend**: Deployed on Heroku, AWS, or Render.
-- **⚛️ Frontend**: Hosted on Vercel or Netlify.
-- **🔗 Live Demo**:
+## 🚀 Live Demo**:
 
 
 https://github.com/user-attachments/assets/53cde2e0-2127-44fe-961c-5a80f9452737
@@ -61,8 +58,8 @@ https://github.com/user-attachments/assets/53cde2e0-2127-44fe-961c-5a80f9452737
 ## ⚙️ Installation and Setup
 
 ### 📋 Prerequisites
-- **⚛️ Frontend**: Node.js, npm/yarn
-- **☕ Backend**: Java (JDK 11+), Maven/Gradle
+- **⚛️ Frontend**: React.js, npm/yarn
+- **☕ Backend**: Java (JDK 11+), Maven/Gradle, SpringBoot, RESTful API
 - **🐬 Database**: MySQL Server
 
 ### 🖥️ Steps to Run Locally
