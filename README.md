@@ -120,9 +120,3 @@ https://github.com/user-attachments/assets/53cde2e0-2127-44fe-961c-5a80f9452737
    - `DELETE /api/stocks/{id}`
 4. **📋 Get All Stocks**:
    - `GET /api/stocks`
-
----
-
-## 🌟 Final Note
-
-This project reflects the core values of CapX by promoting simplicity, efficiency, and innovation. We hope this tool aligns with CapX's vision of empowering users to take control of their financial portfolios with ease and confidence. 🌟
